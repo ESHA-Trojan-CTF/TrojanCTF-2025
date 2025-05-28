@@ -1,0 +1,5 @@
+baseURL = 'https://ESHA-Trojan-CTF.github.io/'
+languageCode = 'en-us'
+title = 'Pictures from TrojanCTF 2025'
+theme = "gallery"
+publishDir = "docs"
