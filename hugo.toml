@@ -1,4 +1,4 @@
-baseURL = 'https://ESHA-Trojan-CTF.github.io/'
+baseURL = "https://esha-trojan-ctf.github.io/trojanctf-2025/"
 languageCode = 'en-us'
 title = 'Pictures from TrojanCTF 2025'
 theme = "gallery"
